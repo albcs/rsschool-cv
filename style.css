@@ -1,0 +1,32 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    width: 1024px;
+    margin: auto;
+}
+
+h1, h2 {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 1.5rem;
+    margin: 20px;
+}
+
+header {
+    background-color: a7a7a7;
+}
+
+.cv-photo, .contacts, .name {
+    display: inline-block;
+}
+
+.main {
+    margin: 20px;
+}
+
+section {
+    margin: 40px 0 40px 0;
+}
+
+code {
+    margin-left: 20px;
+}

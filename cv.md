@@ -1,5 +1,9 @@
 ### ALBERT NURKAEV
-## CONTACT INFO
+Ufa, Russia, 450076
+Skype: live:albert.nurkaev.cs  
+Email: albert.nurkaev.cs@gmail.com  
+
+---
 
 ## SUMMARY
 
